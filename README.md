@@ -4,15 +4,18 @@ A curated collection of writing samples showcasing clear, user-focused technical
 
 ## Samples
 
-- **Sample #1: How to Submit an Expense Report (SAP Concur)**  
+- **Sample #1: Setting Up an Automated Raspberry Pi Weather Station**  
   *(coming soon)*
 
-- **Sample #2: VPN Troubleshooting Guide**  
+- **Sample #2: How to Simulate a Digital Logic Circuit Using Logisim**  
   *(coming soon)*
 
-- **Sample #3: Notion vs Obsidian – Comparison Doc**  
+- **Sample #3: How to Use OpenWeatherMap API for Real-Time Dashboards**  
+  *(coming soon)*
+
+  - **Sample #4: Firmware vs. Software: A Beginner’s Guide for Engineers**  
   *(coming soon)*
 
 ## About Me
 
-Aspiring technical writer with a background in IT workflows and process documentation. I write for clarity and practical impact.
+I’m building a career in technical writing, drawing on a background in process documentation, user support, programming, and IT systems such as SAP Concur. I specialize in translating complex technical concepts into clear, user-friendly documentation.
